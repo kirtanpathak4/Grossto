@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Maryam Aljanabi",
+  "author": "Kirtan Pathak",
   "license": "MIT",
   "dependencies": {
     "admin-bro": "^4.0.1",
